@@ -1,0 +1,68 @@
+[2020-03-31 13:55:08] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:55:43] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:55:43] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:55:59] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:56:10] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:56:11] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:57:19] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:57:42] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 13:58:55] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 14:02:14] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 14:02:46] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 16:31:55] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 16:32:09] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 16:32:42] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 18:32:35] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 18:49:25] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:0)
+[stacktrace]
+#0 {main}
+"} 
+[2020-03-31 18:50:35] local.ERROR: Cannot declare class App\Models\Cart, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class App\\Models\\Cart, because the name is already in use at /var/www/html/laravel-product/app/Models/Message.php:15)
+[stacktrace]
+#0 {main}
+"} 

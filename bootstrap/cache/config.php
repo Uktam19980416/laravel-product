@@ -1,7 +1,7 @@
 <?php return array (
   'app' => 
   array (
-    'name' => 'Laravel',
+    'name' => 'Little Closet',
     'env' => 'local',
     'debug' => true,
     'url' => 'http://localhost',
@@ -10,7 +10,7 @@
     'locale' => 'en',
     'fallback_locale' => 'en',
     'faker_locale' => 'en_US',
-    'key' => 'base64:5sIMhAX/24qsGpI1BbWCgvnwnuPddi8eDB2OgbC4fy8=',
+    'key' => 'base64:51hzOjUOa4WdpYlxTI+O6dg9ZNKaeT0pXfiF9PNuG4s=',
     'cipher' => 'AES-256-CBC',
     'providers' => 
     array (
@@ -79,6 +79,7 @@
       'Validator' => 'Illuminate\\Support\\Facades\\Validator',
       'View' => 'Illuminate\\Support\\Facades\\View',
     ),
+    'adminemail' => 'rakhmatullayev2017@mail.ru',
   ),
   'auth' => 
   array (
@@ -106,7 +107,7 @@
       'users' => 
       array (
         'driver' => 'eloquent',
-        'model' => 'App\\User',
+        'model' => 'App\\Models\\User',
       ),
     ),
     'passwords' => 

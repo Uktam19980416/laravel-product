@@ -13,7 +13,8 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    // 'name' => env('APP_NAME', 'Laravel'),
+        'name' => 'Little Closet',
 
     /*
     |--------------------------------------------------------------------------
@@ -227,5 +228,7 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
+
+    'adminemail' => 'rakhmatullayev2017@mail.ru',
 
 ];
